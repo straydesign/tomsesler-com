@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     type: "website",
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Tom Sesler — Product Designer & Web Developer",
     description:
       "Product designer and web developer. Portfolio at straydesign.co. Web design agency at straywebdesign.co.",
