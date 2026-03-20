@@ -56,7 +56,7 @@ export default function Home() {
           </a>
         </div>
 
-        <p className="text-sm text-zinc-500">
+        <p className="text-sm text-zinc-400">
           <a
             href="mailto:tom@straydesign.co"
             className="transition-colors hover:text-zinc-300"
@@ -66,14 +66,14 @@ export default function Home() {
         </p>
       </main>
 
-      <footer className="absolute bottom-6 text-xs text-zinc-600">
+      <footer className="absolute bottom-6 text-xs text-zinc-400">
         Built by{" "}
         <a
           href="https://straywebdesign.co"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Stray Web Design (opens in new tab)"
-          className="transition-colors hover:text-zinc-400"
+          className="transition-colors hover:text-zinc-300"
         >
           Stray Web Design
         </a>
