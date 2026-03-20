@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center px-6">
-      <main className="flex w-full max-w-xl flex-col gap-8">
+      <main id="main" className="flex w-full max-w-xl flex-col gap-8">
         <div className="flex flex-col gap-3">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
             Tom Sesler
@@ -17,6 +17,7 @@ export default function Home() {
             href="https://straydesign.co"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="straydesign.co (opens in new tab)"
             className="text-white underline underline-offset-4 hover:text-zinc-300"
           >
             straydesign.co
@@ -26,6 +27,7 @@ export default function Home() {
             href="https://straywebdesign.co"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="straywebdesign.co (opens in new tab)"
             className="text-white underline underline-offset-4 hover:text-zinc-300"
           >
             straywebdesign.co
@@ -38,6 +40,7 @@ export default function Home() {
             href="https://straydesign.co"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="Portfolio (opens in new tab)"
             className="inline-flex items-center justify-center rounded-lg bg-white px-6 py-3 text-sm font-medium text-black transition-colors hover:bg-zinc-200"
           >
             Portfolio &rarr;
@@ -46,6 +49,7 @@ export default function Home() {
             href="https://straywebdesign.co"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="Web Design Agency (opens in new tab)"
             className="inline-flex items-center justify-center rounded-lg border border-zinc-700 px-6 py-3 text-sm font-medium text-white transition-colors hover:border-zinc-500 hover:bg-zinc-900"
           >
             Web Design Agency &rarr;
@@ -68,6 +72,7 @@ export default function Home() {
           href="https://straywebdesign.co"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Stray Web Design (opens in new tab)"
           className="transition-colors hover:text-zinc-400"
         >
           Stray Web Design

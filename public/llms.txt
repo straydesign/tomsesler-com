@@ -1,0 +1,32 @@
+# Tom Sesler — Product Designer & Web Developer
+
+> Tom Sesler designs and builds digital products. Personal brand page linking to his portfolio and web design agency.
+
+## About
+
+Tom Sesler is a product designer and web developer based in Erie, PA. He designs and builds digital products — from research-driven UX through live shipped software. This site (tomsesler.com) is his personal brand page, connecting visitors to his main properties.
+
+## Primary Links
+
+- https://straydesign.co — Product design portfolio. Case studies, shipped products, and design process work.
+- https://straywebdesign.co — Stray Web Design, Tom's web design agency building enterprise-grade websites for small businesses in Erie, PA.
+
+## Skills & Expertise
+
+- Product Design (end-to-end, research through shipped interfaces)
+- UX Research (ethnographic, heuristic evaluation, usability testing)
+- UX/UI Design (Figma, prototyping, design systems)
+- Web Development (React, Next.js, TypeScript, Tailwind CSS)
+- Web Design Agency (client websites, branding, digital strategy)
+
+## Contact
+
+- Email: tom@straydesign.co
+- Portfolio: https://straydesign.co
+- Agency: https://straywebdesign.co
+- Personal: https://tomsesler.com
+
+## Related Projects
+
+- https://firstday.life — FirstDay, AI-powered goal achievement platform (designed and built by Tom)
+- https://stray.run — Stray Run, Tom's clothing brand
